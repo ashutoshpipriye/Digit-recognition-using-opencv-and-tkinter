@@ -7,11 +7,10 @@ Handwritten Digit Recognition using OpenCV, sklearn and Python
 3. `skimage`
 4. `numpy`
 5. `collections`
+6. `tkinter`
 
 
 ## Results
 
 ### Sample Image 1
-![Result Number 1](http://hanzratech.in/figures/digit-reco-1-out.png)
-### Sample Image 2
-![Result Number 2](http://hanzratech.in/figures/digit-reco-2.png)
+![Result Number 1](photo1.jpg)
