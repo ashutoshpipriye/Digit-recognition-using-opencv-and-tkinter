@@ -12,5 +12,8 @@ Handwritten Digit Recognition using OpenCV, sklearn and Python
 
 ## Results
 
-### Sample Image 1
+### Sample Image 
+![](photo_1.jpg)
+
+### Output
 ![](photo_1.jpg)
